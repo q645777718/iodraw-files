@@ -10,9 +10,6 @@
         <mxCell id="j1B_Ag907GzlQ9lpLnpf-1" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194" y="70" width="156" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j1B_Ag907GzlQ9lpLnpf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j1B_Ag907GzlQ9lpLnpf-3" target="j1B_Ag907GzlQ9lpLnpf-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="j1B_Ag907GzlQ9lpLnpf-3" value="用户是否有国家信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="232" y="180" width="80" height="80" as="geometry" />
         </mxCell>
