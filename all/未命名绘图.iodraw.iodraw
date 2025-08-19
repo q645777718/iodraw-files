@@ -16,8 +16,8 @@
         <mxCell id="j1B_Ag907GzlQ9lpLnpf-22" value="本地服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="380" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j1B_Ag907GzlQ9lpLnpf-24" value="本地服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="180" height="60" as="geometry" />
+        <mxCell id="j1B_Ag907GzlQ9lpLnpf-24" value="查询本地数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
