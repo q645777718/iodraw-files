@@ -13,6 +13,9 @@
         <mxCell id="Kw2brXoSRe1WnYiMVoNj-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据消息的topic获取设备序列号&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kw2brXoSRe1WnYiMVoNj-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据消息的topic获取设备序列号&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="80" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
