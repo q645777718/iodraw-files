@@ -82,8 +82,8 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-20" value="&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;设备上报属性&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2550" y="90" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-21" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;DEVICE_PROPERTY_LOG&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;消费组接收，消息解码&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="180" width="270" height="50" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-21" value="&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;设备上报电量&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="160" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
