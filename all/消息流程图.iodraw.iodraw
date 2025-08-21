@@ -204,6 +204,9 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-71" target="n6Jiqc_PvZMxa9N9dZtI-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-71" target="n6Jiqc_PvZMxa9N9dZtI-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-71" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;发送topic:HB_IoT_app_control_device的消息&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2860" y="487.5" width="320" height="55" as="geometry" />
         </mxCell>
