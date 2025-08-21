@@ -189,8 +189,8 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-66" value="判断设备是否有绑定用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-68" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;设备确认连接事件处理&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="670" width="270" height="60" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-68" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;发送通知设备未绑定消息到kafka&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="525" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
