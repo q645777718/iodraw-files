@@ -255,11 +255,17 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-91" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;通过定时任务定时执行补发设备属性上报3次&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2810" y="720" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-93" target="n6Jiqc_PvZMxa9N9dZtI-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-93" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;编码HB_IoT_app_control_device的消息体&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3130" y="720" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-95" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;封装HB_IoT_app_control_device的消息体&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3442" y="720" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-97" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;设备确认连接事件处理&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="620" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
