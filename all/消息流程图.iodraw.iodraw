@@ -489,8 +489,8 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-163" value="通过mqtt通知绑定该设备&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;上报子设备属性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;消息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2740" y="1980" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-165" value="判断是否包含&quot;cds&quot;字段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="1780" width="80" height="80" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-165" value="消息体是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="1970" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
