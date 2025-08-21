@@ -184,13 +184,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-63" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;设备确认连接事件处理&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="660" width="270" height="60" as="geometry" />
+          <mxGeometry x="2050" y="557.5" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-66" target="n6Jiqc_PvZMxa9N9dZtI-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-66" value="判断设备是否有绑定用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="650" width="80" height="80" as="geometry" />
+          <mxGeometry x="2390" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-68" target="n6Jiqc_PvZMxa9N9dZtI-71">
           <mxGeometry relative="1" as="geometry" />
@@ -227,6 +227,9 @@
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-81" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3690" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-82" target="n6Jiqc_PvZMxa9N9dZtI-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-82" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;DEVICE_PROPERTY_LOG&lt;font style=&quot;font-size: 12px; white-space: normal; background-color: rgb(251, 251, 251);&quot; face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;消费组接收，消息解码&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3220" y="560" width="320" height="55" as="geometry" />
