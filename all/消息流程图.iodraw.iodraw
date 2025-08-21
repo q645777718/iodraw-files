@@ -148,8 +148,8 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-45" value="&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;根据设备号追踪获取所有用户的注册id，根据注册id推送消息&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2550" y="370" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-47" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;hb/device/{&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;deviceSn&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;}/alert&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="220" height="60" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-47" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;hb/device/{&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;deviceSn&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10pt;&quot;&gt;}/event&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
