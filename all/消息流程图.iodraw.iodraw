@@ -31,20 +31,9 @@
         <mxCell id="Kw2brXoSRe1WnYiMVoNj-7" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据topic:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;HB_IoT_device_upload_property发送kafka消息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="60" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="n6Jiqc_PvZMxa9N9dZtI-4">
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kw2brXoSRe1WnYiMVoNj-7" target="n6Jiqc_PvZMxa9N9dZtI-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1820" y="90" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="n6Jiqc_PvZMxa9N9dZtI-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1650" y="110" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1580" y="110" />
-              <mxPoint x="1580" y="111" />
-              <mxPoint x="1771" y="111" />
-              <mxPoint x="1771" y="150" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-4" target="n6Jiqc_PvZMxa9N9dZtI-7">
