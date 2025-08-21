@@ -195,14 +195,14 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-68" target="n6Jiqc_PvZMxa9N9dZtI-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-68" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;发送通知设备未绑定消息到kafka&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-68" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;发送通知设备解除绑定消息到kafka&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2510" y="525" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-70" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2450" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-71" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;发送topic:HB_IoT_app_control_device的消息&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2860" y="530" width="320" height="55" as="geometry" />
+          <mxGeometry x="2860" y="527.5" width="320" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
