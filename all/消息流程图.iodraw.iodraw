@@ -492,7 +492,7 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-163" value="通过mqtt通知绑定该设备&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;上报子设备属性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;消息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2740" y="1980" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-165" target="n6Jiqc_PvZMxa9N9dZtI-168">
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-165" target="n6Jiqc_PvZMxa9N9dZtI-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-165" value="消息体是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -500,6 +500,9 @@
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-168" value="通过mqtt通知绑定该设备&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;上报子设备属性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;消息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="3245" y="1920" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-170" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="1950" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
