@@ -507,6 +507,9 @@
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-170" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3160" y="1950" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-171" target="n6Jiqc_PvZMxa9N9dZtI-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-171" value="根据设备号清理电池包属性中的父设备号为空" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="3245" y="2020" width="270" height="60" as="geometry" />
         </mxCell>
@@ -515,6 +518,9 @@
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-174" value="更新电池包属性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="3560" y="2020" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-176" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;上报子设备属性&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="1990" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
