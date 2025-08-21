@@ -28,20 +28,23 @@
         <mxCell id="Kw2brXoSRe1WnYiMVoNj-5" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;编码topic:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;HB_IoT_device_upload_property的消息体&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="60" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kw2brXoSRe1WnYiMVoNj-7" target="n6Jiqc_PvZMxa9N9dZtI-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kw2brXoSRe1WnYiMVoNj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Kw2brXoSRe1WnYiMVoNj-7" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据topic:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;HB_IoT_device_upload_property发送kafka消息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="60" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-1" target="n6Jiqc_PvZMxa9N9dZtI-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="n6Jiqc_PvZMxa9N9dZtI-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-1" target="n6Jiqc_PvZMxa9N9dZtI-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据topic:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;HB_IoT_device_upload_property发送消息&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="60" width="270" height="60" as="geometry" />
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="n6Jiqc_PvZMxa9N9dZtI-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1820" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6Jiqc_PvZMxa9N9dZtI-4" target="n6Jiqc_PvZMxa9N9dZtI-7">
           <mxGeometry relative="1" as="geometry" />
@@ -174,9 +177,6 @@
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-54" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据topic:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(6, 125, 23); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;HB_IoT_device_upload_event&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 0, 0); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;发送kafka消息&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="840" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-56" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;根据topic:&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;HB_IoT_device_upload_alert&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; white-space: normal;&quot;&gt;发送消息&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="830" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
