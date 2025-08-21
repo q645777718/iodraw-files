@@ -508,7 +508,10 @@
           <mxGeometry x="3160" y="1950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n6Jiqc_PvZMxa9N9dZtI-171" value="根据设备号清理电池包属性中的父设备号为空" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3250" y="2040" width="270" height="60" as="geometry" />
+          <mxGeometry x="3245" y="2020" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6Jiqc_PvZMxa9N9dZtI-173" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="1960" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
