@@ -40,8 +40,11 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-15" value="日本" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="560" width="80" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="R4656FJ2hjUtomHZJSSo-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="R4656FJ2hjUtomHZJSSo-16" value="新加坡" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="860" y="560" width="80" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="R4656FJ2hjUtomHZJSSo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-9" target="R4656FJ2hjUtomHZJSSo-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
