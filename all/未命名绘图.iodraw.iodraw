@@ -16,6 +16,9 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-4" value="调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="130" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R4656FJ2hjUtomHZJSSo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-5" target="R4656FJ2hjUtomHZJSSo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R4656FJ2hjUtomHZJSSo-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="525" y="55" width="60" height="210" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-2" target="R4656FJ2hjUtomHZJSSo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4656FJ2hjUtomHZJSSo-9" value="查询区域所在国家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4656FJ2hjUtomHZJSSo-9" value="查询区域所在国家,获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="360" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
