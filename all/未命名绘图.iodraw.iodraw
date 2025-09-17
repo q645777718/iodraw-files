@@ -19,8 +19,11 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="525" y="55" width="60" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="R4656FJ2hjUtomHZJSSo-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R4656FJ2hjUtomHZJSSo-6" value="Kafka:&amp;nbsp;HB_IoT_weather_alert" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R4656FJ2hjUtomHZJSSo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-6" target="R4656FJ2hjUtomHZJSSo-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
