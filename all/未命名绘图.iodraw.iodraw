@@ -28,7 +28,7 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-2" target="R4656FJ2hjUtomHZJSSo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4656FJ2hjUtomHZJSSo-9" value="查询区域所在国家,获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4656FJ2hjUtomHZJSSo-9" value="查询区域所在分区号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="360" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
