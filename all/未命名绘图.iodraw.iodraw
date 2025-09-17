@@ -54,8 +54,10 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-9" target="R4656FJ2hjUtomHZJSSo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R4656FJ2hjUtomHZJSSo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R4656FJ2hjUtomHZJSSo-9" target="R4656FJ2hjUtomHZJSSo-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="R4656FJ2hjUtomHZJSSo-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="R4656FJ2hjUtomHZJSSo-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
