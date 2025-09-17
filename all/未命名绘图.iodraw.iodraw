@@ -65,8 +65,11 @@
         <mxCell id="R4656FJ2hjUtomHZJSSo-23" value="美国partition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="452.5" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4656FJ2hjUtomHZJSSo-24" value="美国partition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R4656FJ2hjUtomHZJSSo-24" value="日本partition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R4656FJ2hjUtomHZJSSo-25" value="日本partition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
